@@ -1,4 +1,4 @@
-int num=2;
+int num=10;
 bouncingball[] b=new bouncingball[num];
 
 
